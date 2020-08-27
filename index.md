@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Proyecto de Arquitectura
 
 You can use the [editor on GitHub](https://github.com/jsochoa3/jsochoa3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
